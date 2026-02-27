@@ -15,10 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying **Computer Engineering** at the **University of Perugia** (Unipg).
+- 🎓 Currently studying **Computer Engineering** at the **University of Perugia** (UNIPG).
 - 📍 Based in **Gubbio, Italy**.
 - 💡 Passionate about algorithms, data structures, and building efficient software solutions.
 - 🛠️ I love diving into lower-level languages to understand system performance and writing elegant, high-level logic for complex problems.
+- 💻 I built my own development environment, creating a highly customized, Lua-based **Neovim** configuration optimized for Java and C.
+- 🤖 **AI-Assisted Development:** Proficient in leveraging AI coding assistants and LLMs to accelerate debugging, automate boilerplate generation, and rapidly prototype complex architectures without compromising code comprehension.
 - 🚀 Exploring the world of fellowships, open-source, and software engineering internships to bring my ideas to life.
 
 ---
@@ -31,12 +33,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 ### Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-AI_Pair_Programming-black?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
